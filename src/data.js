@@ -1,28 +1,28 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookies?',
-    info: 'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+    title: 'What is the best CPU for creators?',
+    info: 'My personal preference would be a 9950X but, I\'m not a gamer. If I was a gamer then I would probably want a 9950X3D. It does really depend on what type of content you are primarily creating. Threadripper is incredible for some types of content but certainly not the best for Photoshop.',
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
-    info: 'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+    title: 'Should I upgrade my NVMe drive from Gen4 to Gen5?',
+    info: 'In terms of speed you will not notice any difference in the majority of cases unless you are dealing with the most enormous of data sets. You will also need to consider whether you are able to sufficiently cool a Gen5 drive as the thermal output is very different, so much so that there were a flurry of liquid cooling solutions that hit the market specifically for Gen5 SSDs when they first landed for consumers.',
   },
   {
     id: 3,
-    title: 'What is BankID?',
-    info: 'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+    title: 'What PSU should I buy and what are the differences?',
+    info: 'Power Supply Units are not something you should "cheap out" on and not something that is typically bought on the second hand market. You should always aim to leave yourself a good amount of head room not just to give yourself future upgrade options but also to improve efficiency. In relation to efficiency it varies based on a couple of main points, firstly the 80+ rating with Titanium being the best, secondly depending on the spec you should aim to achieve the optimum power draw within that spec and, thirdly there can be slight differences between manufacturers.',
   },
   {
     id: 4,
-    title: 'Whose birth number can I use?',
-    info: 'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+    title: 'How should choose my graphics card?',
+    info: 'As with a lot of components I would choose based upon my use case. I would also look at what would make the best pairing with the CPU that I plan to put in the same system. Many consumers will just look at what will be best for playing their games and this is not always the best way to choose what will be best for you. Do your research and always look at where the deals are at the time of purchase.',
   },
   {
     id: 5,
-    title: 'When do I recieve a password ordered by letter?',
-    info: 'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+    title: 'Should I use 2 sticks of RAM or 4 sticks?',
+    info: 'The same thing applies here and that is that it really depends on the use case. You will also want to look at what platform you plan to use as the newer Intel platforms as well as the AM5 platform will perform better in most cases with 2 sticks. There are other factors to consider of course and you should really seek out solid guides for setup to get the most out of your RAM, especially when using DDR5. Many people don\'t even realise that they\'re leaving a lot of performance on the table because they didn\'t go into their BIOS and enable EXPO to overclock their memory instead of settling for the stock speeds.',
   },
 ];
 export default questions;
