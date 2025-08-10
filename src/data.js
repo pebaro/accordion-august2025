@@ -2,7 +2,7 @@ const questions = [
   {
     id: 1,
     title: 'What is the best CPU for creators?',
-    info: 'My personal preference would be a 9950X but, I\'m not a gamer. If I was a gamer then I would probably want a 9950X3D. It does really depend on what type of content you are primarily creating. For example Threadripper is incredible for some types of content but certainly not the best for Photoshop.',
+    info: 'My personal preference would be a 9950X but, I\'m not a gamer. If I was a gamer then I would probably want a 9950X3D. It does really depend on what type of content you are primarily creating. For example Threadripper is incredible for tasks such as rendering but, certainly not the best for Photoshop.',
   },
   {
     id: 2,
