@@ -11,7 +11,7 @@ const Accordion = ({accordionQuestions, activeID, toggleQuestion}) => {
             {...question} 
             key={question.id} 
             activeID={activeID} 
-            toggleQuestion={toggleQuestion} ``
+            toggleQuestion={toggleQuestion} 
           />
         )
       }
