@@ -1,8 +1,6 @@
-import { useState } from 'react'
 import { AiOutlinePlus, AiOutlineMinus } from 'react-icons/ai'
 
 const SingleQuestion = ({ id, title, info, activeID, toggleQuestion }) => {
-  const [showAnswer, setShowAnswer] = useState( false )
   const isActive = id === activeID
 
   return (
